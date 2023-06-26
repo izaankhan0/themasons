@@ -1,0 +1,93 @@
+/* *{
+  padding: 0;
+  margin: 0;
+} */
+body{
+  font-family: 'Libre Baskerville', serif;
+  background-color: rgb(21, 152, 149);
+}
+h1{
+  text-align: center;
+  background-color:rgb(87, 197, 182);
+  color: black;
+  padding: 20px;
+  margin: 0;
+  
+}
+.container > .nav > p{
+  text-align: center;
+  background-color:rgb(87, 197, 182);
+  color: black;
+  padding: 0px 0px 20px 20px;
+  margin: 0;
+}
+h2{
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: white;
+  background-color: black;
+}
+.nav{
+  margin: 0;
+}
+
+.staff{
+  display: inline-block;
+  justify-content: center;
+}
+img{
+  width: 180px;
+  height: 200px;
+  float: left;
+  margin-right: 20px;
+}
+p{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/* staff */
+h3{
+  font-size: xx-large;
+}
+.izaan{
+/* border: solid rgb(0, 43, 91) 7px; */
+margin: 20px;
+width: 53.5%;
+display: inline-block;
+margin: 20px 22%;
+}
+.ismail{
+  /* border: solid rgb(0, 43, 91) 7px; */
+  margin: 20px;
+  width: 53.5%;
+  display: inline-block;
+  margin: 20px 22%;
+}
+.bilal{
+  /* border: solid rgb(0, 43, 91) 7px; */
+  margin: 20px;
+  width: 53.5%;
+  display: inline-block;
+  margin: 20px 22%;
+}
+.rafay{
+  /* border: solid rgb(0, 43, 91) 7px; */
+  margin: 20px;
+  width: 53.5%;
+  display: inline-block;
+  margin: 20px 22%;
+}
+.azeem{
+  /* border: solid rgb(0, 43, 91) 7px; */
+  width: 53.5%;
+  margin: 20px;
+  display: inline-block;
+  margin: 20px 22%;
+}
+h3, h6, h4, h5{
+  font-size: 30pt;
+  display: block;
+  text-align: left;
+  margin: 0;
+}
